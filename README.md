@@ -41,6 +41,10 @@ Big-O = O(n)
 Big-O O(nlogn)
 ```
 
+### Proje 3
+
+![binarytree](binarytree.png)
+
 
 ## Usage
 
