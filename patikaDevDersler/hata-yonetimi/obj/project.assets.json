@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\console-programlama\\console-programlama.csproj",
-      "projectName": "console-programlama",
-      "projectPath": "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\console-programlama\\console-programlama.csproj",
+      "projectUniqueName": "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\hata-yonetimi\\hata-yonetimi.csproj",
+      "projectName": "hata-yonetimi",
+      "projectPath": "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\hata-yonetimi\\hata-yonetimi.csproj",
       "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\console-programlama\\obj\\",
+      "outputPath": "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\hata-yonetimi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",

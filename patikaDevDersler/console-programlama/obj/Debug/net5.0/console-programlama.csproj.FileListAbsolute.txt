@@ -14,3 +14,19 @@ C:\Users\burak\Documents\GitHub\patikaDev Projeler\console-programlama\obj\Debug
 C:\Users\burak\Documents\GitHub\patikaDev Projeler\console-programlama\obj\Debug\net5.0\ref\console-programlama.dll
 C:\Users\burak\Documents\GitHub\patikaDev Projeler\console-programlama\obj\Debug\net5.0\console-programlama.pdb
 C:\Users\burak\Documents\GitHub\patikaDev Projeler\console-programlama\obj\Debug\net5.0\console-programlama.genruntimeconfig.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\bin\Debug\net5.0\console-programlama.exe
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\bin\Debug\net5.0\console-programlama.deps.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\bin\Debug\net5.0\console-programlama.runtimeconfig.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\bin\Debug\net5.0\console-programlama.runtimeconfig.dev.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\bin\Debug\net5.0\console-programlama.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\bin\Debug\net5.0\ref\console-programlama.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\bin\Debug\net5.0\console-programlama.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\obj\Debug\net5.0\console-programlama.csproj.AssemblyReference.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\obj\Debug\net5.0\console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\obj\Debug\net5.0\console-programlama.AssemblyInfoInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\obj\Debug\net5.0\console-programlama.AssemblyInfo.cs
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\obj\Debug\net5.0\console-programlama.csproj.CoreCompileInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\obj\Debug\net5.0\console-programlama.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\obj\Debug\net5.0\ref\console-programlama.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\obj\Debug\net5.0\console-programlama.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\console-programlama\obj\Debug\net5.0\console-programlama.genruntimeconfig.cache

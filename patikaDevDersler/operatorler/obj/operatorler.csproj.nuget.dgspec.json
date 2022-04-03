@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\console-programlama\\console-programlama.csproj": {}
+    "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\operatorler\\operatorler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\console-programlama\\console-programlama.csproj": {
+    "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\operatorler\\operatorler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\console-programlama\\console-programlama.csproj",
-        "projectName": "console-programlama",
-        "projectPath": "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\console-programlama\\console-programlama.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\operatorler\\operatorler.csproj",
+        "projectName": "operatorler",
+        "projectPath": "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\operatorler\\operatorler.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\console-programlama\\obj\\",
+        "outputPath": "C:\\Users\\burak\\Documents\\GitHub\\kodluyoruzilkrepo\\patikaDevDersler\\operatorler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
