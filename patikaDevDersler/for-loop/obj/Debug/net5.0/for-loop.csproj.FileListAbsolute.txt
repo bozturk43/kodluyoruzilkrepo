@@ -1,0 +1,16 @@
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\bin\Debug\net5.0\for-loop.exe
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\bin\Debug\net5.0\for-loop.deps.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\bin\Debug\net5.0\for-loop.runtimeconfig.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\bin\Debug\net5.0\for-loop.runtimeconfig.dev.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\bin\Debug\net5.0\for-loop.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\bin\Debug\net5.0\ref\for-loop.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\bin\Debug\net5.0\for-loop.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\obj\Debug\net5.0\for-loop.csproj.AssemblyReference.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\obj\Debug\net5.0\for-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\obj\Debug\net5.0\for-loop.AssemblyInfoInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\obj\Debug\net5.0\for-loop.AssemblyInfo.cs
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\obj\Debug\net5.0\for-loop.csproj.CoreCompileInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\obj\Debug\net5.0\for-loop.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\obj\Debug\net5.0\ref\for-loop.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\obj\Debug\net5.0\for-loop.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\obj\Debug\net5.0\for-loop.genruntimeconfig.cache
