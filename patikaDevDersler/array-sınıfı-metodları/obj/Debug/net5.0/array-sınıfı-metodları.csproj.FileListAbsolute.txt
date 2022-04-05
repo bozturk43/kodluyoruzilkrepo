@@ -1,0 +1,16 @@
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\bin\Debug\net5.0\array-sınıfı-metodları.exe
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\bin\Debug\net5.0\array-sınıfı-metodları.deps.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\bin\Debug\net5.0\array-sınıfı-metodları.runtimeconfig.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\bin\Debug\net5.0\array-sınıfı-metodları.runtimeconfig.dev.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\bin\Debug\net5.0\array-sınıfı-metodları.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\bin\Debug\net5.0\ref\array-sınıfı-metodları.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\bin\Debug\net5.0\array-sınıfı-metodları.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\obj\Debug\net5.0\array-sınıfı-metodları.csproj.AssemblyReference.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\obj\Debug\net5.0\array-sınıfı-metodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\obj\Debug\net5.0\array-sınıfı-metodları.AssemblyInfoInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\obj\Debug\net5.0\array-sınıfı-metodları.AssemblyInfo.cs
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\obj\Debug\net5.0\array-sınıfı-metodları.csproj.CoreCompileInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\obj\Debug\net5.0\array-sınıfı-metodları.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\obj\Debug\net5.0\ref\array-sınıfı-metodları.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\obj\Debug\net5.0\array-sınıfı-metodları.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\obj\Debug\net5.0\array-sınıfı-metodları.genruntimeconfig.cache

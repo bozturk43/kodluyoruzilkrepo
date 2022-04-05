@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = for_loop
-build_property.ProjectDir = c:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\for-loop\
+build_property.RootNamespace = array_sınıfı_metodları
+build_property.ProjectDir = c:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-sınıfı-metodları\
