@@ -1,0 +1,16 @@
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\bin\Debug\net5.0\metot-overloading.exe
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\bin\Debug\net5.0\metot-overloading.deps.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\bin\Debug\net5.0\metot-overloading.runtimeconfig.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\bin\Debug\net5.0\metot-overloading.runtimeconfig.dev.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\bin\Debug\net5.0\metot-overloading.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\bin\Debug\net5.0\ref\metot-overloading.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\bin\Debug\net5.0\metot-overloading.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\obj\Debug\net5.0\metot-overloading.csproj.AssemblyReference.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\obj\Debug\net5.0\metot-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\obj\Debug\net5.0\metot-overloading.AssemblyInfoInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\obj\Debug\net5.0\metot-overloading.AssemblyInfo.cs
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\obj\Debug\net5.0\metot-overloading.csproj.CoreCompileInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\obj\Debug\net5.0\metot-overloading.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\obj\Debug\net5.0\ref\metot-overloading.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\obj\Debug\net5.0\metot-overloading.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\metot-overloading\obj\Debug\net5.0\metot-overloading.genruntimeconfig.cache
