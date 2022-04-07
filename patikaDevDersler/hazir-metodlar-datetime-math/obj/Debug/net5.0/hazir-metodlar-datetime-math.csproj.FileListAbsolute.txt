@@ -1,0 +1,16 @@
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\bin\Debug\net5.0\hazir-metodlar-datetime-math.exe
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\bin\Debug\net5.0\hazir-metodlar-datetime-math.deps.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\bin\Debug\net5.0\hazir-metodlar-datetime-math.runtimeconfig.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\bin\Debug\net5.0\hazir-metodlar-datetime-math.runtimeconfig.dev.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\bin\Debug\net5.0\hazir-metodlar-datetime-math.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\bin\Debug\net5.0\ref\hazir-metodlar-datetime-math.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\bin\Debug\net5.0\hazir-metodlar-datetime-math.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.csproj.AssemblyReference.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.AssemblyInfoInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.AssemblyInfo.cs
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.csproj.CoreCompileInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\obj\Debug\net5.0\ref\hazir-metodlar-datetime-math.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.genruntimeconfig.cache
