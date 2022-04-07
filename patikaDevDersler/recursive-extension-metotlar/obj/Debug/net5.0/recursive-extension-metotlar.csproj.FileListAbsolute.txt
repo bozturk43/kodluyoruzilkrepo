@@ -1,0 +1,16 @@
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\bin\Debug\net5.0\recursive-extension-metotlar.exe
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\bin\Debug\net5.0\recursive-extension-metotlar.deps.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\bin\Debug\net5.0\recursive-extension-metotlar.runtimeconfig.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\bin\Debug\net5.0\recursive-extension-metotlar.runtimeconfig.dev.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\bin\Debug\net5.0\recursive-extension-metotlar.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\bin\Debug\net5.0\ref\recursive-extension-metotlar.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\bin\Debug\net5.0\recursive-extension-metotlar.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.csproj.AssemblyReference.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.AssemblyInfoInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.AssemblyInfo.cs
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\obj\Debug\net5.0\ref\recursive-extension-metotlar.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.genruntimeconfig.cache
