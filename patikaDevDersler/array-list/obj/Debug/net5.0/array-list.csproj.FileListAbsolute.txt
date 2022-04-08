@@ -1,0 +1,16 @@
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\bin\Debug\net5.0\array-list.exe
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\bin\Debug\net5.0\array-list.deps.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\bin\Debug\net5.0\array-list.runtimeconfig.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\bin\Debug\net5.0\array-list.runtimeconfig.dev.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\bin\Debug\net5.0\array-list.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\bin\Debug\net5.0\ref\array-list.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\bin\Debug\net5.0\array-list.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\obj\Debug\net5.0\array-list.csproj.AssemblyReference.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\obj\Debug\net5.0\array-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\obj\Debug\net5.0\array-list.AssemblyInfoInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\obj\Debug\net5.0\array-list.AssemblyInfo.cs
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\obj\Debug\net5.0\array-list.csproj.CoreCompileInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\obj\Debug\net5.0\array-list.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\obj\Debug\net5.0\ref\array-list.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\obj\Debug\net5.0\array-list.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\array-list\obj\Debug\net5.0\array-list.genruntimeconfig.cache
