@@ -1,0 +1,16 @@
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\bin\Debug\net5.0\generic_list.exe
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\bin\Debug\net5.0\generic_list.deps.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\bin\Debug\net5.0\generic_list.runtimeconfig.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\bin\Debug\net5.0\generic_list.runtimeconfig.dev.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\bin\Debug\net5.0\generic_list.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\bin\Debug\net5.0\ref\generic_list.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\bin\Debug\net5.0\generic_list.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\obj\Debug\net5.0\generic_list.csproj.AssemblyReference.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\obj\Debug\net5.0\generic_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\obj\Debug\net5.0\generic_list.AssemblyInfoInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\obj\Debug\net5.0\generic_list.AssemblyInfo.cs
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\obj\Debug\net5.0\generic_list.csproj.CoreCompileInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\obj\Debug\net5.0\generic_list.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\obj\Debug\net5.0\ref\generic_list.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\obj\Debug\net5.0\generic_list.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\generic_list\obj\Debug\net5.0\generic_list.genruntimeconfig.cache
