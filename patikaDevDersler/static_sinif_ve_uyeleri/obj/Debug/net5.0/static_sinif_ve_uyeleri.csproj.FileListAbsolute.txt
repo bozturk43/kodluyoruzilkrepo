@@ -1,0 +1,16 @@
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\bin\Debug\net5.0\static_sinif_ve_uyeleri.exe
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\bin\Debug\net5.0\static_sinif_ve_uyeleri.deps.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\bin\Debug\net5.0\static_sinif_ve_uyeleri.runtimeconfig.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\bin\Debug\net5.0\static_sinif_ve_uyeleri.runtimeconfig.dev.json
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\bin\Debug\net5.0\static_sinif_ve_uyeleri.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\bin\Debug\net5.0\ref\static_sinif_ve_uyeleri.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\bin\Debug\net5.0\static_sinif_ve_uyeleri.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\obj\Debug\net5.0\static_sinif_ve_uyeleri.csproj.AssemblyReference.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\obj\Debug\net5.0\static_sinif_ve_uyeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\obj\Debug\net5.0\static_sinif_ve_uyeleri.AssemblyInfoInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\obj\Debug\net5.0\static_sinif_ve_uyeleri.AssemblyInfo.cs
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\obj\Debug\net5.0\static_sinif_ve_uyeleri.csproj.CoreCompileInputs.cache
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\obj\Debug\net5.0\static_sinif_ve_uyeleri.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\obj\Debug\net5.0\ref\static_sinif_ve_uyeleri.dll
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\obj\Debug\net5.0\static_sinif_ve_uyeleri.pdb
+C:\Users\burak\Documents\GitHub\kodluyoruzilkrepo\patikaDevDersler\static_sinif_ve_uyeleri\obj\Debug\net5.0\static_sinif_ve_uyeleri.genruntimeconfig.cache
