@@ -20,23 +20,26 @@ namespace sinif_kavrami
             //Private=Sadece tanımlandıgı sınıf içerisinden erişilebilir.
             //Internal=Sadece yazıldığı proje içinden erişilebilir.
             //Protected=Sadece tanımlandıgı sınıfta veya o sınıftan kalıtım alan sınıflardan erişilebilir.
-            Calisan calisan1=new Calisan();
-            calisan1.Ad="Burak";
-            calisan1.Soyad="Öztürk";
-            calisan1.No=012345678;
-            calisan1.Departman="IT";
+            
+            Calisan calisan1=new Calisan("Burak","Öztürk",012345678,"IT");
             calisan1.CalisanBilgileri();
 
             Console.WriteLine("************************");
 
-            Calisan calisan2=new Calisan();
-            calisan2.Ad="Merve";
-            calisan2.Soyad="Öztürk";
-            calisan2.No=876543210;
-            calisan2.Departman="İnsan Kaynakları";
+            Calisan calisan2=new Calisan("Merve","Öztürk",876543210,"İnsan Kaynakları");
             calisan2.CalisanBilgileri();
 
+            Console.WriteLine("************************");
+            
+            Calisan calisan3=new Calisan("Bera","Öztürk");
+            calisan3.CalisanBilgileri();
+
             Console.ReadKey();
+            //Kurucu metodlar bi sınıfın nesnesi oluşturuldugunda arka planda otomatik olarak calıstırılan metodlardır. Bunlar kurucu metodlar/yapıcı metodlar/constructor lar olarak adlandırılır.
+            //Kurucu metodlar tanımlanırken isimleri sınıf isimleri ile aynı olmak zorundadır.Erişim belirleyicileri mutlaka public olmak zorundadır.
+            //Kurucu metodların geri dönüş tipleri bulunmaz.Geri döndürmeyen metodlarda olduğu gibi void burada yazılmaz.Metod yalnızca erişim belirleyici+ class ile aynı isimde olur.
+            //Kurucu metodlar overload edilebilir.
+
         }
     }
     class Calisan
@@ -45,6 +48,22 @@ namespace sinif_kavrami
         public string Soyad;
         public int No;
         public string Departman;
+
+        // classın Kurucu metodu
+        public Calisan(string ad , string soyad, int no, string departman){
+            this.Ad=ad;
+            this.Soyad=soyad;
+            this.No=no;
+            this.Departman=departman;
+        }
+        //Kurucu metodu overload ediyoruz
+        public Calisan(string ad , string soyad){
+            this.Ad=ad;
+            this.Soyad=soyad;
+        }
+        public Calisan(){
+
+        }
 
         public void CalisanBilgileri(){
             Console.WriteLine("Calisan Adi:{0}",Ad);
